@@ -2,7 +2,7 @@
 
 Resources I've found helpful on my journey learning Clojure.
 
-Most if not all of the credit goes to my Clojure mentor & work colleague [Jonas Emanuel Müller](jonas.mueller@gmail.com), whose digital live can be observed at [jonasmueller.net](https://jonasmueller.net/). What started as fascinating lunch discussions and slack conversations turned into this. Thanks mate for challenging and guiding me on the journey!
+Most if not all of the credit goes to my Clojure mentor & work colleague [Jonas Emanuel Müller](mailto:jonas.mueller@gmail.com), whose digital live can be observed at [jonasmueller.net](https://jonasmueller.net/). What started as fascinating lunch discussions and slack conversations turned into this. Thanks mate for challenging and guiding me on the journey!
 
 ## Getting ready to learn Clojure
 
