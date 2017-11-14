@@ -14,10 +14,14 @@ A next great step is [Simple Made Easy](https://www.infoq.com/presentations/Simp
 
 The last abstract talk Jonas strongly recommends is really important before going practical: [The Value of Values](https://www.infoq.com/presentations/Value-Values). Depending on your background, be prepared to be provoked a bit, since that's the part where Rich also criticises object-oriented programming. Luckily for me, Jonas thought I seemed *"very surprisingly open to these kinds of thoughts and ideas"*.
 
-As one of the side-benefits of these talks, I got to learn funky new words, such as:
+If you're eager for more, check out [Rich Hickey's greatest hits](https://changelog.com/posts/rich-hickeys-greatest-hits).
 
-- [homoiconicity](https://en.wikipedia.org/wiki/Homoiconicity), where a program's source code is written as a basic data structure that the programming language knows how to access,
-- [reification](https://en.wikipedia.org/wiki/Reification_(computer_science))... err, still learning on this, not sure I can explain it at this stage!
+As one of the side-benefits of these talks, you get to learn funky new words, such as:
+
+- [homoiconicity](https://en.wikipedia.org/wiki/Homoiconicity) indicates that a program's source code is written as a basic data structure that the programming language knows how to access, for more details read about [the Clojure Reader](https://clojure.org/reference/reader)
+- [reification](http://www.lispcast.com/reification) means making an abstraction into a concrete value that can be manipulated at runtime.
+
+Now you can impress your peers by combining these terms together, as Clojure's *homoiconicity* means that programs are *reified* into the language as *data*.
 
 ## Learning Clojure
 
