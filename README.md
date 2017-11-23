@@ -2,7 +2,7 @@
 
 Resources I've found helpful on my journey learning Clojure.
 
-Most if not all of the credit goes to my Clojure mentor & work colleague [Jonas Emanuel Müller](mailto:jonas.mueller@gmail.com), whose digital live can be observed at [jonasmueller.net](https://jonasmueller.net/). What started as fascinating lunch discussions and slack conversations turned into this. Thanks mate for challenging and guiding me on the journey!
+Most if not all of the credit goes to my Clojure mentor & work colleague [Jonas Emanuel Müller](mailto:jonas.mueller@gmail.com), whose digital life can be observed at [jonasmueller.net](https://jonasmueller.net/). What started as fascinating lunch discussions and slack conversations turned into this. Thanks mate for challenging and guiding me on the journey!
 
 ## Getting ready to learn Clojure
 
@@ -27,15 +27,16 @@ Now you can impress your peers by combining these terms together, as Clojure's *
 
 Armed with all the theoretical motivation, I've decided to buy the excellent [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/) book to guide me a bit more in my journey.
 
-Do *not* try to understand the official Clojure documentation. Or at least not after a few years of Clojure practice ;) It's meant as a reference. Instead, use the community-driven [CDS Clojure Documentation](http://clojure-doc.org/)
+Most importantly, code while you learn! Setup your favourite tool quite early, and start hacking! Some popular collections of exercises:
 
-The [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/) article is somewhat biased towards Clojure but it's still an interesting comparison of compactness between Clojure and Java.
-
-For learning in the tram go with [4Clojure](http://www.4clojure.com/), a very popular way of learning Clojure, also available as mobile apps.
+- [Clojure Koans](https://github.com/functional-koans/clojure-koans) starts really gently
+- [Clojure Katas](https://github.com/marshallshen/clojure-katas)
+- [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
+- [4Clojure](http://www.4clojure.com/), also available as mobile apps, but after a few exercises you will really need an IDE
 
 This [visual cheatsheet](https://s-haensch.github.io/visual-cheatsheet/) is also good for beginners.
 
-Clojure makes users way more aware of data structures and their performance implications than many statically typed languages. For example one uses different functions to append to an array and a (linked) list, because one should be aware of the performance/computational complexity differences.
+Do *not* try to learn Clojure by reading the official Clojure documentation. It's meant as a reference and is best read after some real experience with Clojure. Instead, use the community-driven [CDS Clojure Documentation](http://clojure-doc.org/)
 
 Learn [clojure.spec](https://clojure.org/about/spec) in due time. That is, only when you're comfortable reading and writing Clojure ;)
 
@@ -48,6 +49,10 @@ Some people prefer [Spacemacs](http://spacemacs.org/).
 ## Clojure vs the rest of the world
 
 People on the outside seem more focused on the fact that Clojure is a Lisp than Clojurians are. Read: *"Oh no, parentheses-hell!"*. Among Clojurians it is common to hear *"I came for the Lisp, but I stayed for the immutability"*.
+
+Clojure makes users way more aware of data structures and their performance implications than many statically typed languages. For example one uses different functions to append to an array and a (linked) list, because one should be aware of the performance/computational complexity differences.
+
+The [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/) article is somewhat biased towards Clojure but it's still an interesting comparison of compactness between Clojure and Java.
 
 ## Beyond Clojure
 
